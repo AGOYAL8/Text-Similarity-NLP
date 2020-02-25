@@ -1,2 +1,2 @@
-# Nowigence-DAEN-690
+# Text similarity code
 Automatic Sectionizer
