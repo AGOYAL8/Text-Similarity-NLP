@@ -1,2 +1,2 @@
 # Text similarity code
-Automatic Sectionizer
+How to automate the process of text similarity for different purposes like document sectionizer, plagarism, etc.
